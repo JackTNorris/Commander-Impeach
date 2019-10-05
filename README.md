@@ -17,4 +17,4 @@ SCORE “THE DONALD” ONE MORE DAY IN OFFICE FOR EVERY OFFENSIVE OBSTACLE THAT 
   <li>"Crooked Hillary!"</li>
    <li>"Fake news!"</li>
 </ul>
-<h3>Available for download on Google Play today!!!</h3>
+<h3><a href = "https://play.google.com/store/apps/details?id=com.sierrahotelgames.commanderimpeach&hl=en_US">Available for download on Google Play today!!!</a></h3>
