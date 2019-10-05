@@ -1,4 +1,5 @@
 # Commander-Impeach
+
 ###KEEP TRUMP FROM BEING IMPEACHED AND HELP HIM “MAKE AMERICA GREAT AGAIN.”
 SCORE “THE DONALD” ONE MORE DAY IN OFFICE FOR EVERY OFFENSIVE OBSTACLE THAT YOU SUCCESSFULLY NAVIGATE HIM PAST. AFTER PASSING EACH OBSTACLE, TRUMP WILL EXCLAIM HIS THOUGHTS ON IT. INCLUDES 30+ PHRASES AND SAYINGS!
 
@@ -8,11 +9,11 @@ SCORE “THE DONALD” ONE MORE DAY IN OFFICE FOR EVERY OFFENSIVE OBSTACLE THAT 
    <img src = "https://lh3.googleusercontent.com/v9NKY463VSEedOEMiDzo1kLhWB1yAo0UlW1xB7RSCvXzm2g1AX6FYYib-x0yiec2Wu3T=w720-h310-rw"/>
 </p>
 
-####Phrases include:
+<h3>Phrases include:</h3>
 - "You're fired!"
 - "I love the poorly educated!"
 - "Pocahontas!"
 - "Crooked Hillary!"
 - "Fake news!"
 
-####Available for download on Google Play today!!!
+<h3>Available for download on Google Play today!!!</h3>
