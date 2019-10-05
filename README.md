@@ -10,10 +10,11 @@ SCORE “THE DONALD” ONE MORE DAY IN OFFICE FOR EVERY OFFENSIVE OBSTACLE THAT 
 </p>
 
 <h3>Phrases include:</h3>
-- "You're fired!"
-- "I love the poorly educated!"
-- "Pocahontas!"
-- "Crooked Hillary!"
-- "Fake news!"
-
+<ul>
+  <li> "You're fired!"</li>
+  <li> "I love the poorly educated!"</li>
+  <li>"Pocahontas!"</li>
+  <li>"Crooked Hillary!"</li>
+   <li>"Fake news!"</li>
+</ul>
 <h3>Available for download on Google Play today!!!</h3>
