@@ -19,3 +19,4 @@ SCORE “THE DONALD” ONE MORE DAY IN OFFICE FOR EVERY OFFENSIVE OBSTACLE THAT 
    <li>"Fake news!"</li>
 </ul>
 <h3><a href = "https://play.google.com/store/apps/details?id=com.sierrahotelgames.commanderimpeach&hl=en_US">Available for download on Google Play today!!!</a></h3>
+<p>Please note that this game is made entirely for comedic purposes! It is designed to make fun of both sides</p>
